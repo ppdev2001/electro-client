@@ -10,10 +10,6 @@ function VoucherManage() {
       <Stack align="center">
         <CurrencyDollar size={200} strokeWidth={1} color={theme.colors.gray[5]}/>
         <Text size="lg">Sổ quỹ là chức năng quản lý dòng tiền của hệ thống</Text>
-        <Text>
-          Tham khảo: <Anchor href="https://www.teamcrop.com/ho-tro/module-so-quy" target="_blank">Module sổ quỹ của
-          Teamcrop</Anchor>
-        </Text>
       </Stack>
     </Center>
   );
