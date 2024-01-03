@@ -26,6 +26,7 @@ function ClientHomeBanner() {
               backgroundImage: theme.fn.linearGradient(105, theme.colors.teal[3], theme.colors.lime[3]),
             }}
           >
+            <img src="https://cdn.tgdd.vn/Files/2020/08/19/1281368/1_1067x600-800-resize.jpg" alt="Teal Lime Image" />
           </Box>
           <Box
             sx={{
